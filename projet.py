@@ -8,3 +8,6 @@ def somme(T):
 Data=[1,3,5]
 Som=sum(Data)
 
+print('la somme est:', sum(Data))
+print('le min:', min(Data))
+print('le max:',max(Data))
